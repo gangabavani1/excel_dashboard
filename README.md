@@ -50,3 +50,4 @@ Inventory Management: Based on the "Quantity by Month" trend, which months shoul
 Marketing Strategy: Our data shows a preference for either "App" or "Website" in certain regions. Should we spend more on App advertisements or Website SEO to improve future sales?
 Discount Strategy: Are high discounts actually leading to more "Units Sold," or are we losing money on products like the Wireless Mouse?
 
+https://github.com/gangabavani1/excel_dashboard/blob/main/excel%20summary.png
