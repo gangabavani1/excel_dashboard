@@ -45,6 +45,8 @@ Status (Delivered, Shipped, etc.)
 PreferredChannel
 
 https://github.com/gangabavani1/excel_dashboard/blob/main/final%20report2.png
+<img width="640" height="277" alt="final report2" src="https://github.com/user-attachments/assets/f15e78c7-a441-4f3c-b48e-502804ebb622" />
+
 
 **Final Summary: Executive Business Questions**
 
@@ -53,3 +55,5 @@ Marketing Strategy: Our data shows a preference for either "App" or "Website" in
 Discount Strategy: Are high discounts actually leading to more "Units Sold," or are we losing money on products like the Wireless Mouse?
 
 https://github.com/gangabavani1/excel_dashboard/blob/main/excel%20summary.png
+<img width="656" height="310" alt="excel summary" src="https://github.com/user-attachments/assets/645e3b10-554e-440d-9a24-991a0e13c0ed" />
+
