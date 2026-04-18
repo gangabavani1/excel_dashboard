@@ -18,6 +18,7 @@ Category
 ProductName
 Month (Derived from OrderDateTime)
 
+https://github.com/gangabavani1/excel_dashboard/blob/main/report1.png
 
 **Report 2:Customer & Regional Insights Dashboard**
 Goal: Understand who our customers are, where they live, and how they prefer to shop.
