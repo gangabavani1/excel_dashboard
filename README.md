@@ -42,9 +42,11 @@ Region
 Status (Delivered, Shipped, etc.)
 PreferredChannel
 
+https://github.com/gangabavani1/excel_dashboard/blob/main/final%20report2.png
 
 **Final Summary: Executive Business Questions**
 
 Inventory Management: Based on the "Quantity by Month" trend, which months should we increase our stock of Laptops and SSDs?Customer Retention: We noticed a high number of "Processing" and "Cancelled" orders. Which region is struggling the most with this, and how does it affect our Net Revenue?
 Marketing Strategy: Our data shows a preference for either "App" or "Website" in certain regions. Should we spend more on App advertisements or Website SEO to improve future sales?
 Discount Strategy: Are high discounts actually leading to more "Units Sold," or are we losing money on products like the Wireless Mouse?
+
